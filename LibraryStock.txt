@@ -1,0 +1,5 @@
+In Search of Lost Time,	Marcel Proust,20,$3
+The Great Gatsby,F. Scott Fitzgerald,25,$2
+The Divine Comedy ,Dante Alighieri,20,$1.5
+The Catcher in the Rye,J.D.Salinger,15,$2
+Nineteen Eighty Four, George Orwell,25,$3
